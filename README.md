@@ -1,2 +1,2 @@
 # MyProject_ManagerApp
-the website help people can maneger personal finance
+The website help people can manage their personal finance.
